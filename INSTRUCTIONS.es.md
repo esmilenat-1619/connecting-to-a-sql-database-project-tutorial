@@ -3,7 +3,6 @@
 ## Parte 1: Instala dependencias
 
 Hay un archivo en este proyecto llamado `./requirements.txt` que contiene la lista de bibliotecas de Python que usaremos en este proyecto como Pandas, psycopg2, SQLAlchemy, etc. Ejecuta el comando `pip install -r requirements.txt` para instalar todas las bibliotecas a la vez usando el asistente PIP (*Package Installer of Python*, Instalador de Paquetes de Python).
-
 > NOTA: Asegúrate de que el comando no genere ningún error en el terminal.
 
 ## Parte 2: Incluye las credenciales de tu base de datos
